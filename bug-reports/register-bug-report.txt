@@ -1,0 +1,15 @@
+Bug Title : Register without email is allowed
+
+steps :
+1.Open Register page
+2.Leave email field empty
+3.Click Register
+
+Expected Result :
+System should show validation message
+ 
+Actual Result
+User can register without email
+
+Severity: Higth
+Status: Open
